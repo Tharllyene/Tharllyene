@@ -1,16 +1,24 @@
-### Hi there 👋
+### **Hello, World!** 🌎
 
-<!--
-**Tharllyene/Tharllyene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- *Meu nome é Tharllyene*💁🏾‍♀️
+- *Tenho 17 anos*
+- *Sou estudante do Ensino Médio* 
+- *Entrei para o mundo da programação há pouco tempo*
 
-Here are some ideas to get you started:
+**No meu tempo livre eu gosto de:**
+- *Desenhar* 🎨👩🏾‍🎨
+- *Ler* 📚
+- *Maratonar séries* 🎬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Estou aprendendo a programar em:**
+- *HTML* 
+- *CSS* 
+- *C#* 
+- *JavaScript* 
+- *Java*
+- *Python*
+
+**IDEs que eu uso:**
+- *Notepad++*
+- *Sublime*
+- *PyCharm*
