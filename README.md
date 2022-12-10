@@ -9,7 +9,7 @@
 ### **Hello, World!** 🌎
 
 - *Meu nome é Tharllyene*💁🏾‍♀️
-- *Tenho 17 anos*
+- *Tenho 18 anos*
 - *Sou estudante do Ensino Médio* 
 
 **No meu tempo livre eu gosto de:**
